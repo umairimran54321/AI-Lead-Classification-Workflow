@@ -41,4 +41,4 @@ Provides structured lead data for analytics and reporting.
 This project demonstrates how AI and workflow automation can streamline lead management by intelligently classifying customer inquiries, prioritizing opportunities, and automating follow-up processes with minimal human intervention.
 ##  Screenshots
 ![Output 1](AIleadclassifying.jpeg)
-![Output 2](AIleadclasssifying2.jpeg)
+![Output 2](AIleadclassifying2.jpeg)
