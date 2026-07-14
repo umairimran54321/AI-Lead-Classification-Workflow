@@ -39,6 +39,6 @@ Reduces manual work and human error.
 Provides structured lead data for analytics and reporting.
 
 This project demonstrates how AI and workflow automation can streamline lead management by intelligently classifying customer inquiries, prioritizing opportunities, and automating follow-up processes with minimal human intervention.
-**Screenshots**
-(Image.AIleadclassifying.jpeg)
-(Image.AIleadclasssifying2.jpeg)
+##  Screenshots
+![Output 1](Image.AIleadclassifying.jpeg)
+![Output 2](Image.AIleadclasssifying2.jpeg)
